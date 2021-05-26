@@ -1,0 +1,10 @@
+h1{
+	text-shadow: 2px 2px 8px #FF0000;
+	
+}
+pre{
+	border: 50px solid transparent;
+	padding: 15px;
+	border-image: url(F7.jpg) 30% round;
+}
+
