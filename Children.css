@@ -1,0 +1,20 @@
+pre{
+	border: 50px solid transparent;
+	padding: 15px;
+	border-image: url(F3.jfif) 30% round;
+
+}
+h1{
+	text-shadow: 2px 2px 8px #FF0000;
+
+}
+h4{
+	
+	text-transform: uppercase;
+}
+p{
+background-color: orange;
+
+width: 350px;
+font-size: 20px;
+}
